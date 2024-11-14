@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+build
+*.iml
+*.bat
+gradlew
+settings.gradle
+
+*.md
+*.gradle
+
+# idea config
+.idea
+
+# old stages
+/My First Project with Java/*
+!/My First Project with Java/task/
+/My First Project with Java/task/*
+!/My First Project with Java/task/src
+/My First Project with Java/task/src/calculator/Main.java
