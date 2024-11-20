@@ -6,6 +6,8 @@
 gradle/
 build
 *.iml
+*.txt
+*.md
 *.bat
 gradlew
 settings.gradle
